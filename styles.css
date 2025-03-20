@@ -294,7 +294,6 @@ header{
     align-content: center;
     text-align: center;
     position: absolute;
-    /* margin-top: 17px; */
     margin-top: -310px;
     margin-left: 19px;
     background-color: teal;
@@ -493,7 +492,6 @@ header{
 }
 .dealsdiv h2,p,h4{
     margin-top: 35px;
-    /* font-size: xx-large; */
     margin-left: 35px;
 }
 .dealsdiv h2{
@@ -532,7 +530,6 @@ header{
     height: 300px;
     width: 315px;
     margin: 15px;
-    /* position: relative; */
     border: 2px  rgb(197, 189, 189);
     border-radius: 10px;
     transition: transform 0.5s ease;
@@ -834,10 +831,8 @@ footer .emailsection{
     padding-left: 15px;
 }
 .table span{
-    /* border: 1px solid; */
     font-size: 19px;
     margin-left: 10px;
-    /* justify-content: center; */
     align-content: center;
 }
 .table .head td{
@@ -921,7 +916,6 @@ footer .emailsection{
     width: 30px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px ;
-    /* border-radius: 2px; */
     text-align: center;
     align-content: center;
     color: white;
@@ -1069,8 +1063,6 @@ footer .emailsection{
         height: 300px;
         width: 220px;
         margin: 5px;
-        /* display: grid;
-        grid-template-columns: repeat(2,1fr); */
     }
     .categoriesimg img{
         height: 200px;
