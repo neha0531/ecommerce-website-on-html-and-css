@@ -1297,8 +1297,6 @@ footer .emailsection{
     .featuredImg img{
         height: 300px;
         width: 320px;
-        /* margin-left: 30px; */
-        /* position: relative; */
     }
     .featuredImg>div{
         height: 500px;
@@ -1368,7 +1366,6 @@ footer .emailsection{
         margin-left: -50px;
     }
     .homepageimg{
-        /* margin-top: 42%; */
         height: 10%;
         width: 57%;
         margin-left: 10px;
