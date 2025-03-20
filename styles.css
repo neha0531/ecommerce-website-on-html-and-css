@@ -1395,7 +1395,7 @@ footer .emailsection{
     }
     .dealsdiv {
         flex-direction: row;
-        justify-content: space-between;
+        justify-content: space-around;
     }
     .deal1{
         width: 50%;
@@ -1444,6 +1444,11 @@ footer .emailsection{
         width: 25px;
         height: 25px;
         font-size: 15px;
+    }
+    .dealsdiv {
+        flex-direction: row;
+        justify-content: space-evenly;
+        gap: 5px;
     }
     .categoriesdiv h2{
         font-size: x-large;
