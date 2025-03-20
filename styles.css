@@ -1429,8 +1429,7 @@ footer .emailsection{
     
    
     .categoriesimg {
-        grid-template-columns: repeat(4, 1fr);
-        gap: 10px;
+        grid-template-columns: repeat(5, 1fr);
     }
     .categoriesimg div{
         width: 350px;
